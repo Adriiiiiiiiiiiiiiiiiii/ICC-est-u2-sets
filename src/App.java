@@ -1,16 +1,19 @@
 import java.util.Set;
 
+import Controllers.ContactoController;
 import Controllers.Sets;
 
 public class App {
     public static void main(String[] args) throws Exception {
 
+        ContactoController contacto = new ContactoController();
         Sets sets= new Sets();
-        runHashSet(sets);
+        /*runHashSet(sets);
         runLinkedHashSet(sets);
         runLinkedTreeSet(sets);
         runLinkedTreeSetCompaere(sets);
-        runLinkedTreeSetCompaere2(sets);
+        runLinkedTreeSetCompaere2(sets);*/
+        contacto.runTreeContacto();
     }
         public static void runHashSet(Sets sets){
         Set<String> palabras= sets.contruirHashSet();
@@ -50,4 +53,5 @@ public class App {
             System.out.println(palabra);
         }
     }
+        
 }
