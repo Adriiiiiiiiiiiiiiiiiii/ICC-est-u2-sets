@@ -51,3 +51,6 @@ La aplicación imprimirá en consola los contenidos de cada tipo de `Set` mostra
 ## Salida de terminal
 ![alt text](image.png)
 
+## Imagen 3 
+
+![alt text](image-2.png)
