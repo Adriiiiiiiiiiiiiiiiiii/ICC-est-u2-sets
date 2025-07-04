@@ -51,6 +51,9 @@ La aplicación imprimirá en consola los contenidos de cada tipo de `Set` mostra
 ## Salida de terminal
 ![alt text](image.png)
 
+
+## Imagen 2 esta subida en el link de treeSet en el avac 
+
 ## Imagen 3 
 
-![alt text](image-2.png)
+![alt text](image-3.png)
