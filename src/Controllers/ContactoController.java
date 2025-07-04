@@ -11,12 +11,12 @@ import Utils.ContactoComparatorNum;
 
 public class ContactoController {
     public ContactoController(){
-    System.out.println("------------------|Agenda ordenada por Apellido - Nombre|------------------");
-    runTreeContacto();
-     System.out.println("------------------|Agenda ordenada por Apellido - Nombre - Telefono|------------------");
-    runTreeContacto2();
-    System.out.println("------------------|Agenda ordenada por Hash|------------------");
-    runTreeContacto3();
+    // System.out.println("------------------|Agenda ordenada por Apellido - Nombre|------------------");
+    // runTreeContacto();
+   //   System.out.println("------------------|Agenda ordenada por Apellido - Nombre - Telefono|------------------");
+    // runTreeContacto2();
+   //  System.out.println("------------------|Agenda ordenada por Hash|------------------");
+   //  runTreeContacto3();
 
     }
     public void runTreeContacto(){
